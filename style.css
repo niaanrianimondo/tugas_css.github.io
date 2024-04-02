@@ -1,0 +1,49 @@
+/* CSS for Header */
+header {
+    background-color: #0e0c0c;
+    color: #f87575;
+    padding: 45px;
+}
+
+header h1 {
+    margin: 80;
+    font-size: 90px;
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 80;
+    padding: 80;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 80px;
+}
+
+header nav ul li a {
+    color: #a73434;
+    text-decoration: none;
+}
+
+/* CSS for Content */
+.content {
+    padding: 45px;
+}
+
+.content h2 {
+    color: #e05c5c;
+    font-size: 45px;
+}
+
+.content p {
+    color: #df6565;
+}
+
+/* CSS for Footer */
+footer {
+    background-color: #333;
+    color: #c24f4f;
+    text-align: center;
+    padding: 45px;
+}
